@@ -6,5 +6,6 @@ Friend Finder is an app that provides a survey for the user to fill out. Once fi
 
 The app utilizes AJAx calls, bootstrap, html, jQuery, Javascript, and Node.js with the express and path packages showing the ability to route different parts of a website from different files to create a streamlined application that's entertaining for the user.
 
-working link to app
+working link to app on heroku or github
 https://secret-ravine-25617.herokuapp.com/
+https://ramonb621.github.io/friendFinder/
